@@ -11,17 +11,12 @@ enum CardType {
 
 @ccclass('Card')
 export class Card extends Component {
-    @property
     private _cardName: string = '';
 
-    // Use the proper `type` field to associate with the enum
-    @property({ type: Enum(CardType) })
     private _type: CardType = CardType.Club;
 
-    @property
     private _value: number = 0;
 
-    @property
     private _image: string = '';
 
     get name(): string {

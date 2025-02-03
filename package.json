@@ -3,5 +3,9 @@
   "uuid": "c9d29e82-e6f4-46ad-babf-d2d7e7ef63d9",
   "creator": {
     "version": "3.8.3"
+  },
+  "dependencies": {
+    "colyseus.js": "^0.15.26",
+    "tesseract.js": "^6.0.0"
   }
 }

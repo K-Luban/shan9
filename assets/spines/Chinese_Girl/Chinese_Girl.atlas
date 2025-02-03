@@ -1,0 +1,118 @@
+
+Chinese_Girl.png
+size: 1715,920
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1 card
+  rotate: false
+  xy: 839, 57
+  size: 139, 178
+  orig: 139, 178
+  offset: 0, 0
+  index: -1
+8 card
+  rotate: true
+  xy: 653, 103
+  size: 146, 184
+  orig: 146, 184
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: true
+  xy: 994, 502
+  size: 416, 714
+  orig: 416, 714
+  offset: 0, 0
+  index: -1
+L_eye
+  rotate: true
+  xy: 1650, 397
+  size: 103, 63
+  orig: 103, 63
+  offset: 0, 0
+  index: -1
+L_flower
+  rotate: false
+  xy: 1447, 57
+  size: 201, 443
+  orig: 201, 443
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 2, 78
+  size: 312, 358
+  orig: 312, 669
+  offset: 0, 0
+  index: -1
+R_eye
+  rotate: false
+  xy: 1447, 3
+  size: 76, 52
+  orig: 76, 52
+  offset: 0, 0
+  index: -1
+R_flower
+  rotate: true
+  xy: 544, 2
+  size: 99, 191
+  orig: 99, 191
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 316, 251
+  size: 185, 548
+  orig: 185, 548
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 438
+  size: 480, 990
+  orig: 497, 1191
+  offset: 17, 0
+  index: -1
+earring
+  rotate: true
+  xy: 1525, 25
+  size: 30, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 994, 21
+  size: 451, 479
+  orig: 456, 479
+  offset: 0, 0
+  index: -1
+l_hair
+  rotate: true
+  xy: 2, 3
+  size: 73, 170
+  orig: 73, 170
+  offset: 0, 0
+  index: -1
+m_hair
+  rotate: false
+  xy: 866, 237
+  size: 116, 199
+  orig: 116, 199
+  offset: 0, 0
+  index: -1
+pevis_ribbon
+  rotate: true
+  xy: 316, 18
+  size: 101, 226
+  orig: 103, 233
+  offset: 0, 5
+  index: -1
+r_hair
+  rotate: true
+  xy: 316, 121
+  size: 128, 335
+  orig: 128, 335
+  offset: 0, 0
+  index: -1
